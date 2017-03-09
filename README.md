@@ -1,9 +1,10 @@
 # game-uno-d3
 
-Game to teach basic of arithmetics. You will need UNO deck and d20 dice.
+Game to teach basic of arithmetics. You will need **UNO** deck and **d20** dice.
 
-Number of players: 2-8 players. Best 3-4
-Best age: 6-10.
+**Number of players**: 2-8 players. Best for 3-4.
+
+**Best age**: 6-10.
 
 ## Rules
 
