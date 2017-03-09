@@ -38,7 +38,13 @@ When player have less than 5 cards, he should draw more cards to have 5.
 
 ![UNOd20](/pics/IMG_2027.JPG)
 
-Game started. Top player roll 17, and played 9. Top player make equality, so he will roll dice in new round.
+Game started. Top player roll 17, and played 9. 
+
+---
+
+![UNOd20](/pics/IMG_20307.JPG)
+
+Top player make equality, so he will roll dice in new round.
 
 ---
 
